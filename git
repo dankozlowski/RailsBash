@@ -1,0 +1,7 @@
+alias gs="git status"
+alias gc="git commit -am"
+alias gs="git status"
+alias gl="git log"
+alias gb="git branch"
+alias go="git checkout"
+alias gob="git checkout -b"
