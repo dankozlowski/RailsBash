@@ -1,6 +1,6 @@
 alias ga="git add"
 alias gs="git status"
-alias gc="git commit -am"
+alias gc="git commit -m"
 alias gs="git status"
 alias gl="git log"
 alias gb="git branch"
