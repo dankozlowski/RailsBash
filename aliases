@@ -1,0 +1,23 @@
+# File stuff
+alias ls="ls -la"
+
+# Git
+alias ga="git add"
+alias gs="git status"
+alias gc="git commit -m"
+alias gs="git status"
+alias gl="git log"
+alias gb="git branch"
+alias go="git checkout"
+alias gob="grb new"
+alias push="git push"
+alias pull="git pull"
+alias gfo="git fetch origin"
+alias gpm="git pull origin master"
+
+# Rails
+alias rs="rails s"
+alias rc="rails c"
+alias rv="rails -v"
+alias be="bundle exec"
+alias rspec="RAILS_ENV=test bundle exec rspec"
