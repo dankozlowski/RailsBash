@@ -17,6 +17,7 @@ alias gpm="git pull origin master"
 
 # Rails
 alias rs="rails s"
+alias rsd="rails s --debugger"
 alias rc="rails c"
 alias rv="rails -v"
 alias be="bundle exec"
